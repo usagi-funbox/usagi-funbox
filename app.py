@@ -1,2 +1,2 @@
 import os
-while
+while{}
